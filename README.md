@@ -19,7 +19,7 @@
 ## 🛠️ Build
 
 - Requires **.NET 6.0**.
-- **ffmpeg.exe** must be placed in the output directory.
+- **ffmpeg.exe** must be placed in the output directory. https://www.ffmpeg.org/download.html#build-windows
 - Run `dotnet build`.
 
 
@@ -43,5 +43,5 @@
 ## 🛠️ 建置需求
 
 - 需安裝 **.NET 6.0**。
-- 必須將 **ffmpeg.exe** 放置於執行檔目錄中。
+- 必須將 **ffmpeg.exe** 放置於執行檔目錄中。 https://www.ffmpeg.org/download.html#build-windows
 - 使用 `dotnet build` 指令進行編譯。
